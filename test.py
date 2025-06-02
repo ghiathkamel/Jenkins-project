@@ -1,1 +1,1 @@
-print("hello-world-this is print-msg-testing")
+print("print-msg-testing")
